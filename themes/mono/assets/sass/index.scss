@@ -1,0 +1,36 @@
+@import "./responsive";
+
+html {
+  font-size: 62.5%; /* 1.0 rem = 10px */
+}
+body {
+  font-size: 1.6rem;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.intro {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.01)),
+    url(http://monomax.sh/imgs/cover.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading {
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 2.1rem;
+}
+
+.subheading {
+  color: #7e7e7e;
+  font-size: 1.7rem;
+  font-weight: 300;
+}

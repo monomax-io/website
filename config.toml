@@ -1,0 +1,4 @@
+baseURL = "https://monomax.sh"
+title = "Monomax Software"
+theme = "mono"
+googleAnalytics = ""
