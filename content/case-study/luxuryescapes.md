@@ -1,13 +1,13 @@
-# Luxury Escapes - Case study
+# Luxury Escapes - A case study
 
 I have greatly improved the performance and extensibility of the checkout pages in a large React web application.
 
-The work greatly benefited the business by enhancing the checkout experience at large. It also paved a way for future requirements such as integrating flights and paid addons into the checkout flow of a hotel.
+The work greatly benefited the business by enhancing the checkout experience at large. It also paved a way for future requirements such as integrating flights and paid add-ons into the checkout flow of a hotel.
 
 ## Work
 
-* I have written a state machine to cleanly abstract steps in checkout and make it easier to implement additional steps for business to sell more products.
-  * The checkout process consisted of many entangled parts with no clear separtion and hard-coded transition. It was impossible for Luxury Escapes to extend it.
+* I have written a state machine to cleanly abstract steps in checkout and make it easier to implement additional steps for the business to sell more products.
+  * The checkout process consisted of many entangled parts with no clear separation and hard-coded transition. It was impossible for Luxury Escapes to extend it.
   * My work has allowed the company to take vital steps necessary to bring the business to the next level by offering more products and services to customers.
 
 * **I have improved the client-side rendering speed of a vital checkout step in a React web application by 42% and its responsiveness by 36%.**
