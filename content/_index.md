@@ -1,10 +1,10 @@
-# Sung Cho - Consulting
+# Sung Cho - Contracting
 
 <img src="imgs/sung.jpeg" alt="Profile photo" class="profile-picture">
 
 [Email me](mailto:sung@monomax.sh)
 
-I am available for hire as a consultant. Here are some of the things I can achieve for your company:
+I am available for hire as a contractor. Here are some of the things I can achieve for your company:
 
 * **Solve complex problems in production.** At <a href="https://dnote.io" target="_blank">Dnote</a>, a big design challenge was to sync users' notes across many machines each running offline-first clients. I wrote <a href="https://dnote.io/blog/state-based-sync/" target="_blank">a scalable state-based replication algorithm</a> to reliably sync note states across distributed machines.
 * **Write complex fullstack applications for production.** I have built and shipped <a href="https://sung.io/about/" target="_blank">numerous commercial applications</a> using Go, React, JavaScript, and node.js.
