@@ -28,9 +28,9 @@ I am open to both short term and long term contracts.
 
 Rearchitected the purchase flow in a brittle internal React web application into a scalable and extendable solution handling &gt;AU$100 million of purchases yearly.
 
-Using node.js microservices and React, extended a hotel-only travel business platform into an integrated flights & hotel bundling buisness. [Optimized a checkout process of a React application by 40%](/case-study/luxuryescapes), handling &gt;$300 million purchases yearly.
+Using node.js microservices and React, extended a hotel-only travel business platform into an integrated flights & hotel bundling buisness. [Optimized a checkout process of a React application by 40%](/case-study/luxuryescapes), handling &gt;AU$300 million purchases yearly.
 
-> Sung dedefined what we believe we can achieve through a combination of both extremely high quality code & fast delivery
+> Sung redefined what we believed we could achieve through a combination of both extremely high quality code & fast delivery.
 >
 > *Timothy Downs, Head of Engineering @ Luxury Escapes*
 
