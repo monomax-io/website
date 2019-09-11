@@ -8,7 +8,9 @@ Thanks for organizing a meeting with me. I look forward to speaking with you soo
 
 ## Change/Cancellation
 
-To change or cancel the meeting, you can email me at <a href="mailto:sung@monomax.sh">sung@monomax.sh</a>
+You can reschedule or cancel using the links from the confirmation email you have recevied.
+
+Alternatively, you can email me at <a href="mailto:sung@monomax.sh">sung@monomax.sh</a>.
 
 ## Alternative contact method
 
