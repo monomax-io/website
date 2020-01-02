@@ -25,7 +25,7 @@ I am open to both short term and long term contracts.
 
 ### <a href="https://luxuryescapes.com" target="_blank">Luxury Escapes</a>
 
-Rearchitected the purchase flow in a brittle internal React web application into a scalable and extendable solution handling &gt;AU$100 million of purchases yearly.
+Rearchitected the purchase flow in a brittle internal React web application into a scalable and extensible solution handling &gt;AU$100 million of purchases yearly.
 
 Using node.js microservices and React, extended a hotel-only travel business platform into an integrated flights & hotel bundling business. [Optimized a checkout process of a React application by 40%](/case-study/luxuryescapes), handling &gt;AU$300 million purchases yearly.
 
@@ -59,6 +59,6 @@ Built <a href="https://www.styleatlas.co/quadrant" target="_blank">Ranges</a>, a
 
 ### <a href="https://dnote.io" target="_blank">Dnote</a>
 
-Designed and built <a href="https://github.com/dnote/dnote">a free and open source</a>, a commercial end-to-end encrypted note-taking application supporting clients in web, command line, browser extensions, and an IDE plugin.
+Designed and built <a href="https://github.com/dnote/dnote">a free and open source</a>, a commercial personal knowledge base software supporting clients in web, command line, browser extensions, and an IDE plugin.
 
 [Contact me](mailto:sung@monomax.sh)
